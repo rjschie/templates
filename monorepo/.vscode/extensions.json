@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "heybourn.headwind",
+    "csstools.postcss",
+    "svelte.svelte-vscode",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
