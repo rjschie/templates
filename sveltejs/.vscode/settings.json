@@ -1,0 +1,8 @@
+{
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "eslint.validate": ["typescript", "svelte"],
+  "files.exclude": {
+    ".yarn/**": true
+  }
+}
