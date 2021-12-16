@@ -1907,11 +1907,11 @@ __metadata:
     husky: ^7.0.4
     import-sort-style-eslint: ^6.0.0
     npm-run-all: ^4.1.5
-    prettier: ^2.4.1
+    prettier: ^2.5.1
     prettier-plugin-import-sort: ^0.0.7
-    prettier-plugin-svelte: ^2.5.0
+    prettier-plugin-svelte: ^2.5.1
     pretty-quick: ^3.1.2
-    typescript: ^4.5.2
+    typescript: ^4.5.4
   languageName: unknown
   linkType: soft
 
@@ -2246,22 +2246,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-svelte@npm:^2.5.0":
-  version: 2.5.0
-  resolution: "prettier-plugin-svelte@npm:2.5.0"
+"prettier-plugin-svelte@npm:^2.5.1":
+  version: 2.5.1
+  resolution: "prettier-plugin-svelte@npm:2.5.1"
   peerDependencies:
     prettier: ^1.16.4 || ^2.0.0
     svelte: ^3.2.0
-  checksum: 0c9bf251c330f354aeda12e67ccf0a424345980a50a5cac2a99b87d50adceefd558719692b79e3274ee42e40aa4e0b44c8a9fa6b6908297b3ea7006b2ebcd90b
+  checksum: 433c0008749043a0ef16ecc27371db9cdd616b700d071e8f26fc933d23e466b2703b129643fabe1072151cf84dfb6ccad39d0baaa9f93f522d3e6bebb5a06d9e
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.4.1":
-  version: 2.4.1
-  resolution: "prettier@npm:2.4.1"
+"prettier@npm:^2.5.1":
+  version: 2.5.1
+  resolution: "prettier@npm:2.5.1"
   bin:
     prettier: bin-prettier.js
-  checksum: cc6830588b401b0d742862fe9c46bc9118204fb307c3abe0e49e95b35ed23629573807ffdf9cdd65289c252a0bb51fc0171437f6626ee36378dea80f0ee80b91
+  checksum: 21b9408476ea1c544b0e45d51ceb94a84789ff92095abb710942d780c862d0daebdb29972d47f6b4d0f7ebbfb0ffbf56cc2cfa3e3e9d1cca54864af185b15b66
   languageName: node
   linkType: hard
 
@@ -2782,13 +2782,13 @@ typescript@^3.2.4:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.5.2":
-  version: 4.5.2
-  resolution: "typescript@npm:4.5.2"
+"typescript@npm:^4.5.4":
+  version: 4.5.4
+  resolution: "typescript@npm:4.5.4"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 74f9ce65d532bdf5d0214b3f60cf37992180023388c87a11ee6f838a803067ef0b63c600fa501b0deb07f989257dce1e244c9635ed79feca40bbccf6e0aa1ebc
+  checksum: 59f3243f9cd6fe3161e6150ff6bf795fc843b4234a655dbd938a310515e0d61afd1ac942799e7415e4334255e41c2c49b7dd5d9fd38a17acd25a6779ca7e0961
   languageName: node
   linkType: hard
 
@@ -2802,13 +2802,13 @@ typescript@^3.2.4:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.5.2#~builtin<compat/typescript>":
-  version: 4.5.2
-  resolution: "typescript@patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=ddd1e8"
+"typescript@patch:typescript@^4.5.4#~builtin<compat/typescript>":
+  version: 4.5.4
+  resolution: "typescript@patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=ddd1e8"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 24a439e062a05e3285a4f0e8a40644116ecdca89f3e908bed01e5a01b9aee747e3bcf0e85fe9e017e5ebf0c0863437c39479f2616f55a244c2d82d37022cdc4f
+  checksum: 270255355c3236076dbbd0900ff0b7b159fac7e6a95f9ed8c59f57361c7dace9f1fbffd3b5eb21377c7f636027382ad89eb64b2acfbcd9e08574f04cfc75ca3d
   languageName: node
   linkType: hard
 
